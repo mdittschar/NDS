@@ -1,3 +1,4 @@
 /[da]ta/
 *.csv
 *.npy
+*.sec
