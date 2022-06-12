@@ -3,4 +3,5 @@
 *.npy
 *.sec
 *.png
+*.mat
 oopsi.py
