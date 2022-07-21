@@ -1,4 +1,5 @@
 /[da]ta/
+/MorphoPy
 *.csv
 *.npy
 *.sec
